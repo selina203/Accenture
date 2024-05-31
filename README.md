@@ -1,4 +1,4 @@
-# Social Buzz
+# Social Buzz - Accenture
 The project is from Forage 
 
 Read the brief to:
